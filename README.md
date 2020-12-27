@@ -1,6 +1,8 @@
 # daily-goals
 Contributors/Owners (Listed in Alphabetical Order): Dhruv Batra, Justin Chen, Kevin Chen
 
+Project details can be viewed at: https://devpost.com/software/productivity-discord-bot
+
 Instructions
 
 Download the repository and unzip it
