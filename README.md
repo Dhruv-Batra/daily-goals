@@ -1,5 +1,5 @@
 # daily-goals
-Contributors/Owners (Listed in Alphabetical Order): Dhruv Batra, Justin Chen,
+Contributors/Owners (Listed in Alphabetical Order): Dhruv Batra, Justin Chen, Kevin Chen
 
 Instructions
 
@@ -10,3 +10,5 @@ Edit the .env file by replacing the DISCORD_TOKEN variable's value with your own
 Navigate to the downloaded directory within your terminal
 
 Run commands.py ex) py commands.py
+
+Have fun!
