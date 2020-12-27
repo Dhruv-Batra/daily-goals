@@ -153,7 +153,7 @@ async def daily(ctx):
     db.child(user_id).child("Points").set({"Points" : int(points) + 3})
     await ctx.send('Here is a gift from me: +3 points! pika!')
     await ctx.send(random.choice(responses))
-    await ctx.send('https://resizeimage.net/mypic/WcMZRgv5XpABTrW0/6dRA5/unknown.png')
+    await ctx.send('https://cdn.discordapp.com/attachments/792628977977131028/792654385007558656/pikachuSanta.png')
     #except:
     #    OrderedDict=db.child(user_id).child("Points").get().val()
     #    points = OrderedDict["Points"]
